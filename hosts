@@ -1,89 +1,89 @@
 #小米Ads
-||a.stat.xiaomi.com^
-||a.union.mi.com^
-||abtest.mistat.xiaomi.com^
-||api.ad.xiaomi.com^
-||api.ra2.xlmc.sec.miui.com^
-||api.tuisong.baidu.com^
-||api.tw06.xlmc.sec.miui.com^
-||app01.nodes.gslb.mi-idc.com^
-||app02.nodes.gslb.mi-idc.com^
-||app03.nodes.gslb.mi-idc.com^
-||applog.uc.cn^
-||beha.ksmobile.com^
-||bss.pandora.xiaomi.com^
-||calopenupdate.comm.miui.com^
-||cdn.ad.xiaomi.com^
-||cm.p4p.cn.yahoo.com^
-||cm066.getui.igexin.com^
-||connect.rom.miui.com^
-||data.mistat.xiaomi.com^
-||e.ad.xiaomi.com^
-||etl.xlmc.sandai.net^
-||fcanr.tracking.miui.com^
-||fclick.baidu.com^
-||get.sogou.com^
-||hm.xiaomi.com^
-||hub5pn.wap.sandai.net^
-||idx.m.hub.sandai.net^
-||image.box.xiaomi.com^
-||info.analysis.kp.sec.miui.com^
-||info.sec.miui.com^
-||logupdate.avlyun.sec.miui.com^
-||lxcdn.dl.files.xiaomi.net^
-||m.bss.pandora.xiaomi.com^
-||m.irs01.com^
-||m.sjzhushou.com^
-||master.wap.dphub.sandai.net^
-||mdap.alipaylog.com^
-||migc.g.mi.com^
-||migcreport.g.mi.com^
-||migrate.driveapi.micloud.xiaomi.net^
-||mis.g.mi.com^
-||mlog.search.xiaomi.net^
-||new.api.ad.xiaomi.com^
-||notice.game.xiaomi.com^
-||nsclick.baidu.com^
-||o2o.api.xiaomi.com^
-||p.alimama.com^
-||pdc.micloud.xiaomi.net^
-||ppurifier.game.xiaomi.com^
-||pre.api.tw06.xlmc.sandai.net^
-||reader.browser.miui.com^
-||report.adview.cn^
-||resolver.gslb.mi-idc.com^
-||resolver.msg.xiaomi.net^
-||sa.tuisong.baidu.com^
-||sa3.tuisong.baidu.com^
-||sdk.open.phone.igexin.com^
-||sdk.open.talk.gepush.com^
-||sdk.open.talk.igexin.com^
-||sdkconfig.ad.xiaomi.com^
-||sec-cdn.static.xiaomi.net^
-||sec.resource.xiaomi.net^
-||security.browser.miui.com^
-||sg.a.stat.mi.com^
-||staging.admin.e.mi.com^
-||test.ad.xiaomi.com^
-||test.api.xlmc.sandai.net^
-||test.e.ad.xiaomi.com^
-||test.new.api.ad.xiaomi.com^
-||tracking.miui.com^
-||tw13b093.sandai.net^
-||union.dbba.cn^
-||update.avlyun.sec.miui.com^
-||www.adview.cn^
-||yun.rili.cn^
-||zhwnlapi.etouch.cn^
-||api.comm.miui.com^
+127.0.0.1a.stat.xiaomi.com
+127.0.0.1a.union.mi.com
+127.0.0.1abtest.mistat.xiaomi.com
+127.0.0.1api.ad.xiaomi.com
+127.0.0.1api.ra2.xlmc.sec.miui.com
+127.0.0.1api.tuisong.baidu.com
+127.0.0.1api.tw06.xlmc.sec.miui.com
+127.0.0.1app01.nodes.gslb.mi-idc.com
+127.0.0.1app02.nodes.gslb.mi-idc.com
+127.0.0.1app03.nodes.gslb.mi-idc.com
+127.0.0.1applog.uc.cn
+127.0.0.1beha.ksmobile.com
+127.0.0.1bss.pandora.xiaomi.com
+127.0.0.1calopenupdate.comm.miui.com
+127.0.0.1cdn.ad.xiaomi.com
+127.0.0.1cm.p4p.cn.yahoo.com
+127.0.0.1cm066.getui.igexin.com
+127.0.0.1connect.rom.miui.com
+127.0.0.1data.mistat.xiaomi.com
+127.0.0.1e.ad.xiaomi.com
+127.0.0.1etl.xlmc.sandai.net
+127.0.0.1fcanr.tracking.miui.com
+127.0.0.1fclick.baidu.com
+127.0.0.1get.sogou.com
+127.0.0.1hm.xiaomi.com
+127.0.0.1hub5pn.wap.sandai.net
+127.0.0.1idx.m.hub.sandai.net
+127.0.0.1image.box.xiaomi.com
+127.0.0.1info.analysis.kp.sec.miui.com
+127.0.0.1info.sec.miui.com
+127.0.0.1logupdate.avlyun.sec.miui.com
+127.0.0.1lxcdn.dl.files.xiaomi.net
+127.0.0.1m.bss.pandora.xiaomi.com
+127.0.0.1m.irs01.com
+127.0.0.1m.sjzhushou.com
+127.0.0.1master.wap.dphub.sandai.net
+127.0.0.1mdap.alipaylog.com
+127.0.0.1migc.g.mi.com
+127.0.0.1migcreport.g.mi.com
+127.0.0.1migrate.driveapi.micloud.xiaomi.net
+127.0.0.1mis.g.mi.com
+127.0.0.1mlog.search.xiaomi.net
+127.0.0.1new.api.ad.xiaomi.com
+127.0.0.1notice.game.xiaomi.com
+127.0.0.1nsclick.baidu.com
+127.0.0.1o2o.api.xiaomi.com
+127.0.0.1p.alimama.com
+127.0.0.1pdc.micloud.xiaomi.net
+127.0.0.1ppurifier.game.xiaomi.com
+127.0.0.1pre.api.tw06.xlmc.sandai.net
+127.0.0.1reader.browser.miui.com
+127.0.0.1report.adview.cn
+127.0.0.1resolver.gslb.mi-idc.com
+127.0.0.1resolver.msg.xiaomi.net
+127.0.0.1sa.tuisong.baidu.com
+127.0.0.1sa3.tuisong.baidu.com
+127.0.0.1sdk.open.phone.igexin.com
+127.0.0.1sdk.open.talk.gepush.com
+127.0.0.1sdk.open.talk.igexin.com
+127.0.0.1sdkconfig.ad.xiaomi.com
+127.0.0.1sec-cdn.static.xiaomi.net
+127.0.0.1sec.resource.xiaomi.net
+127.0.0.1security.browser.miui.com
+127.0.0.1sg.a.stat.mi.com
+127.0.0.1staging.admin.e.mi.com
+127.0.0.1test.ad.xiaomi.com
+127.0.0.1test.api.xlmc.sandai.net
+127.0.0.1test.e.ad.xiaomi.com
+127.0.0.1test.new.api.ad.xiaomi.com
+127.0.0.1tracking.miui.com
+127.0.0.1tw13b093.sandai.net
+127.0.0.1union.dbba.cn
+127.0.0.1update.avlyun.sec.miui.com
+127.0.0.1www.adview.cn
+127.0.0.1yun.rili.cn
+127.0.0.1zhwnlapi.etouch.cn
+127.0.0.1api.comm.miui.com
 # Start Reducemiui ads
-||t1.market.xiaomi.com^
-||t2.market.xiaomi.com^
-||t3.market.xiaomi.com^
-||t4.market.xiaomi.com^
-||t5.market.xiaomi.com^
-||diagnosis.ad.xiaomi.com^
-||m.track.ad.xiaomi.com^
+127.0.0.1t1.market.xiaomi.com
+127.0.0.1t2.market.xiaomi.com
+127.0.0.1t3.market.xiaomi.com
+127.0.0.1t4.market.xiaomi.com
+127.0.0.1t5.market.xiaomi.com
+127.0.0.1diagnosis.ad.xiaomi.com
+127.0.0.1m.track.ad.xiaomi.com
 # 一点资讯 ads
 ||app.market.xiaomi.com^
 ||image.cdn.mvideo.xiaomi.com^
@@ -188,9 +188,9 @@
 ||tnc3-alisc1.zijieapi.com^
 ||lf1-cdn-tos.bytegoofy.com^
 ||sdktmp.hubcloud.com.cn^
-||360buyimg.com^
 ||pig.pupuapi.com^
 ||img14.360buyimg^
+127.0.0.1 360buyimg.com
 #小米天气Ads
 ||wtradv.market.xiaomi.com^
 ||123.125.102.184^
@@ -202,3 +202,68 @@
 #网易云音乐Ads
 ||d6.music.126.net^
 ||https://ipv4.music.163.com/eapi/ad/loading/current^
+#迅雷Ads
+127.0.0.1 static-xl.a.88cdn.com
+127.0.0.1 static-movie.a.88cdn.com
+127.0.0.1 niu.xunlei.com
+127.0.0.1 adsp.xunlei.com
+127.0.0.1 admin.static.xl9.xunlei.com
+127.0.0.1 api-shoulei-ssl.xunlei.com
+127.0.0.1 dm.xiazaibao.xunlei.com
+127.0.0.1 etl-xlmc-ssl.xunlei.com
+127.0.0.1 home.xl9.xunlei.com
+127.0.0.1 misc.xl9.xunlei.com
+127.0.0.1 misc-xl9-ssl.xunlei.com
+127.0.0.1 pc.xunlei.com
+127.0.0.1 plugin.xl7.xunlei.com
+127.0.0.1 static2.ssp.xunlei.com
+127.0.0.1 static-xl9-ssl.xunlei.com
+127.0.0.1 upgrade.xl9.xunlei.com
+127.0.0.1 yingshiku.xunlei.com
+127.0.0.1 live.xunlei.com
+127.0.0.1 wan.xlyouxi.com
+127.0.0.1 xlbrowsersdk.rcv.sandai.net
+127.0.0.1 soagw.live.xunlei.com
+127.0.0.1 api-xds-niu-ssl.xunlei.com
+127.0.0.1 api-web-game-ssl.xunlei.com
+127.0.0.1 cdn.live.xunlei.com
+127.0.0.1 api-yingshiku-ssl.xunlei.com
+127.0.0.1 static1-youxi.a.88cdn.com
+127.0.0.1 stat.download.xunlei.com
+127.0.0.1 cnzz.mmstat.com
+127.0.0.1 ulogs.umeng.com
+127.0.0.1 alogs.umeng.com
+127.0.0.1 liveupdate.rcv.sandai.net
+127.0.0.1 n808.com
+127.0.0.1 video-vip-ssl.xunlei.com
+127.0.0.1 pplive.cn
+127.0.0.1 list.live.xunlei.com
+127.0.0.1 live.xunlei.com
+127.0.0.1 pc-live-ssl.xunlei.com
+127.0.0.1 analysis-acc-ssl.xunlei.com
+127.0.0.1 etl-xlmc-ssl.xunlei.com
+127.0.0.1 res-etl-ssl.xunlei.com
+127.0.0.1 api-web-game-ssl.xunlei.com
+127.0.0.1 adsp.xunlei.com
+127.0.0.1 advertpay.vip.xunlei.com
+127.0.0.1 n0808.com
+127.0.0.1 start.download.xunlei.com
+127.0.0.1 pc.wangpan.xycdn.n0808.com
+127.0.0.1 api-xl9-ssl.xunlei.com
+127.0.0.1 api-shiyingku-ssl.xxunlei.com
+127.0.0.1 static-file.9you.com
+127.0.0.1 images.client.vip.xunlei.com
+127.0.0.1 stat-download-ssl.xunlei.com
+127.0.0.1 movie.xunlei.com
+127.0.0.1 xlbrowsersdk.rcv.sandai.net
+127.0.0.1 plugin.pc.xunlei.com
+127.0.0.1 xlinfopush.rcv.sandai.net
+127.0.0.1 bug-xl9-ssl.xunlei.com
+127.0.0.1 newxmp.rcv.sandai.net
+127.0.0.1 img36.pplive.cn
+127.0.0.1 api-u-ssl.xunlei.com
+127.0.0.1 advertpay.vip.xunlei.com
+127.0.0.1 adsp.xunlei.com
+127.0.0.1 api-shoulei-ssl.xunlei.com
+127.0.0.1 upgrade.xl9.xunlei.com
+127.0.0.1 media.info.client.xunlei.com
